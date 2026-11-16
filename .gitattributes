@@ -1,0 +1,26 @@
+# Line endings: keep LF in the repository and in the working tree on every OS.
+* text=auto eol=lf
+
+*.md    text eol=lf
+*.txt   text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.py    text eol=lf
+*.ps1   text eol=lf
+*.php   text eol=lf
+.gitattributes text eol=lf
+.gitignore     text eol=lf
+
+# Binary assets
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+*.pdf  binary
+*.zip  binary
+*.woff binary
+*.woff2 binary
+*.ttf  binary

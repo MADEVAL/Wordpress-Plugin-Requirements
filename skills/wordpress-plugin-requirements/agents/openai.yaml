@@ -1,0 +1,6 @@
+interface:
+  display_name: "WordPress Plugin Requirements"
+  short_description: "Audit WordPress plugins against the WordPress.org review rules before submission."
+  default_prompt: "Audit this WordPress plugin against the WordPress.org Plugin Directory requirements and return findings with exact fixes."
+policy:
+  allow_implicit_invocation: true

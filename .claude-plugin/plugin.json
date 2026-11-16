@@ -1,0 +1,21 @@
+{
+  "name": "wordpress-plugin-requirements",
+  "displayName": "WordPress Plugin Requirements",
+  "description": "Audit WordPress plugins against the WordPress.org Plugin Directory requirements and prepare them for submission.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Yevhen Leonidov",
+    "url": "https://github.com/MADEVAL"
+  },
+  "homepage": "https://github.com/MADEVAL/Wordpress-Plugin-Requirements",
+  "repository": "https://github.com/MADEVAL/Wordpress-Plugin-Requirements",
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "plugin-directory",
+    "review",
+    "compliance",
+    "agent-skills"
+  ],
+  "skills": "./skills/wordpress-plugin-requirements"
+}

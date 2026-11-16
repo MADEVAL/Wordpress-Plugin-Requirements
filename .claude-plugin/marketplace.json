@@ -1,0 +1,17 @@
+{
+  "name": "wordpress-plugin-requirements",
+  "owner": {
+    "name": "MADEVAL",
+    "url": "https://github.com/MADEVAL"
+  },
+  "plugins": [
+    {
+      "name": "wordpress-plugin-requirements",
+      "source": "./",
+      "description": "Audit WordPress plugins against the WordPress.org Plugin Directory requirements and prepare them for submission.",
+      "version": "0.1.0",
+      "homepage": "https://github.com/MADEVAL/Wordpress-Plugin-Requirements",
+      "repository": "https://github.com/MADEVAL/Wordpress-Plugin-Requirements"
+    }
+  ]
+}
